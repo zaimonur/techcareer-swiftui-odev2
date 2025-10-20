@@ -17,6 +17,8 @@ SwiftUI kullanarak SQLite veri tabanıyla CRUD (Create, Read, Update, Delete) i�
 
 ## 🧩 Ekran Görüntüleri
 
+---
+
 <p align="center">
   <figure style="display:inline-block; margin:10px;">
     <figcaption style="text-align:center;"><b>### 🔸 Uygulama Ana Ekranı</b></figcaption>

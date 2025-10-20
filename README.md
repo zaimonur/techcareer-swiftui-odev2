@@ -17,9 +17,9 @@ SwiftUI kullanarak **SQLite** ile CRUD (Create, Read, Update, Delete) işlemleri
 
 ## 🧩 Ekran Görüntüleri
 
-### 🔸 Uygulama Ana Ekranı
+### 🔸 Uygulama Mimarisi ve Ekran Akışı
 <p align="center">
-  <img width="800" src="https://github.com/user-attachments/assets/bc0d51c4-12bd-4dd1-9acb-e437545b8edf" alt="Ana Ekran">
+  <img width="800" src="https://github.com/user-attachments/assets/bc0d51c4-12bd-4dd1-9acb-e437545b8edf" alt="Uygulama Mimarisi ve Ekran Akışı">
 </p>
 
 ### 📝 Listeleme & 🔍 Arama
